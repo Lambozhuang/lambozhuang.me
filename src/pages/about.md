@@ -23,7 +23,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 - Web back-end development ( Go/Gin | Java/Vertx )
 - Database ( MySQL )
 - Mobile application development ( iOS/Swift )
-- UI/UX prototype ( Figma | Sketch )
+- UI/UX prototyping ( Figma | Sketch )
 - DevOps ( Git | CI/CD | Docker )
 - IT operations ( Linux | PVE )
 - Cloud operations ( Azure | Cloudflare )
