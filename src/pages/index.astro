@@ -45,17 +45,20 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         Hi there!
       </p>
       <p>
-        Here is a text about me.
+        I am Jingwen (Lambo) Zhuang. I like coding, traveling and doing photography. 
+        I am currently a master's student in KTH, studying interactive media technology (interaktiv medieteknik).
       </p>
-      <p>
+      <p>📍 Stockholm, Sweden 🇸🇪</p>
+      <br>
+      <h3>
         Check
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="/about/"
         >
           About
-        </LinkButton> for more info.
-      </p>
+        </LinkButton> to learn more about me.
+      </h3>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
@@ -131,6 +134,12 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   #hero h1 {
     @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero h2 {
+    @apply text-2xl font-bold;
+  }
+  #hero h3 {
+    @apply sm:text-xl;
   }
   #hero .rss-link {
     @apply mb-6;
