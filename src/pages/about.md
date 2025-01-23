@@ -8,7 +8,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 📍 Stockholm, Sweden 🇸🇪
 
 <div>
-  <img src="https://lambozhuangme.blob.core.windows.net/blog-images/23-10-15_DSCF0722.JPG" class="mx-auto" alt="a personal photo">
+  <img src="https://lambozhuangme.blob.core.windows.net/blog-images/about/23-10-15_DSCF0722.jpeg" class="mx-auto" alt="a personal photo">
 </div>
 
 ## 🎓 Educational Journey
