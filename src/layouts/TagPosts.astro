@@ -8,6 +8,7 @@ import Pagination from "@components/Pagination.astro";
 import { SITE } from "@config";
 import type { Page } from "astro";
 import type { CollectionEntry } from "astro:content";
+import LinkButton from "@components/LinkButton.astro";
 
 export interface Props {
   page: Page<CollectionEntry<"blog">>;
@@ -33,6 +34,16 @@ const { page, tag, tagName } = Astro.props;
         ))
       }
     </ul>
+    <p class="opacity-80">
+      Click 
+      <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="/tags/"
+      >
+        here
+      </LinkButton>
+      to see all tags.
+    </p>
   </Main>
 
   <Pagination {page} />
