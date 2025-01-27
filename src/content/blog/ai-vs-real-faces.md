@@ -1,5 +1,4 @@
 ---
-author: Lambo
 pubDatetime: 2025-01-13
 title: AI vs. real faces
 featured: false
