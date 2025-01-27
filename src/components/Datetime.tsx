@@ -9,6 +9,7 @@ interface DatetimesProps {
 interface EditPostProps {
   editPost?: CollectionEntry<"blog">["data"]["editPost"];
   postId?: CollectionEntry<"blog">["id"];
+  author?: string;
 }
 
 interface Props extends DatetimesProps, EditPostProps {
@@ -23,6 +24,7 @@ export default function Datetime({
   className = "",
   editPost,
   postId,
+  author,
 }: Props) {
   return (
     <div
@@ -51,6 +53,8 @@ export default function Datetime({
           modDatetime={modDatetime}
         />
         {size === "lg" && <EditPost editPost={editPost} postId={postId} />}
+        <span aria-hidden="true"> | </span>
+        <span>by {author}</span>
       </span>
     </div>
   );
