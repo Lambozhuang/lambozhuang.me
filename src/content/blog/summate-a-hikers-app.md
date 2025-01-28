@@ -40,3 +40,5 @@ We conducted our project with the Double Diamond design process.
 ## Workbook
 
 Here is the [workbook](https://lambozhuangme.blob.core.windows.net/blog-images/summate-a-hikers-app/summate-workbook.pdf) we did for detailed design information.
+
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/summate-a-hikers-app/6.jpg" class="mx-auto" alt="6">
