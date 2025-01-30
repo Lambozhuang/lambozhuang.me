@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2025-01-13
-title: AI vs. real faces
+title: AI vs. real faces - A study
 featured: false
 draft: false
 tags:
@@ -8,10 +8,12 @@ tags:
   - ux
   - ai
 description:
-  Can people differentiate AI faces and real faces? A project that I have done in the human perception course in KTH.
+  Can people differentiate AI faces and real faces? This is a study that I have done in the human perception course in KTH.
 ---
 
-Can people differentiate AI faces and real faces when it comes to dating profiles? This is a project that I have done in the human perception course in KTH. We looked into how people react and think when they encounter dating profiles with AI generated faces. Our conclusion was people are actually quite good at telling the difference between a real face and an AI generated one.
+Can young women differentiate AI faces and real faces when it comes to dating profiles? This is a project that I have done in the human perception course in KTH for the past 2 months with my fellow classmates: Sara Danielsson, Olivia Flodkvist, Olivia Martin and Julia Nordqvist. We looked into how people react and think when they encounter dating profiles with AI generated faces. Our conclusion was people are actually quite good at telling the difference between a real face and an AI generated one.
+
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png" alt="poster" class="object-contain">
 
 ## Table of contents
 
@@ -79,10 +81,7 @@ We documented everything we've done into a paper at the end, and here is the con
 
 At the end of this course, we did a super short 2-min presentation (because that was what they arranged for each group), and a very nice little exhibition. The teaching team also asked us about a poster about a week before the presentation, and it was quite a surprise that they made this very nice and huge poster, even thought our works weren't technically serious studies. We got a chance to see how other groups had done their projects and talked with each other a bit, and it was very inspiring. This might just be my favorite part of these kind of courses.
 
-<div class="flex flex-col sm:flex-row">
-  <img src="https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster-stand.jpg" alt="poster stand" class="w-full sm:w-1/2 object-contain">
-  <img src="https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png" alt="poster" class="w-full sm:w-1/2 object-contain">
-</div>
+  <img src="https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster-stand.jpg" alt="poster stand" class="object-contain">
 
 ## Looking back
 
