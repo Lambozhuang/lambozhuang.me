@@ -87,3 +87,6 @@ At the end of this course, we did a super short 2-min presentation (because that
 
 I feel like the time really goes fast when I am focus on a project. I rarely get chances to do projects like this and I think this course has given me a great opportunity to do it even though the lectures might not be as exciting as the project, but still, I'm happy with the results. I really appreciate all the help that I got form our supervisor, and I want to thank my team mates, it was a blast to work with them. 
 
+## Full study report
+
+Here is the [full study report](https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/report.pdf) for more detailed information.
