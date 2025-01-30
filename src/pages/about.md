@@ -47,6 +47,10 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 - 3rd Award of 7th CCCC & Mobile Application Innovation Contest Finale (2022, Hangzhou, China)
 - IELTS 7.5 Overall ( 8.5 | 8.5 | 7 | 6 ) (2023)
 
+## Hobby
+
+Photography, Traveling, 80's Music, Disney
+
 ## ✉️ Contact
 
 Email: Lambozhuang@gmail.com

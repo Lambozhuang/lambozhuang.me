@@ -42,10 +42,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a> -->
 
       <p>
-        Hi there!
+        Hi there,
       </p>
       <p>
-        I am Jingwen (Lambo) Zhuang. I like coding, traveling and doing photography. 
+        Welcome to my blog! I am Jingwen (Lambo) Zhuang. I like coding, traveling and doing photography. 
         I am currently a master's student in KTH, studying interactive media technology (interaktiv medieteknik).
       </p>
       <p>📍 Stockholm, Sweden 🇸🇪</p>
@@ -57,7 +57,15 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           href="/about/"
         >
           About
-        </LinkButton> to learn more about me.
+        </LinkButton> 
+        to learn more about me, or check
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="/posts/"
+        >
+          Posts
+        </LinkButton> 
+        to see all the projects I have done.
       </p>
       {
         // only display if at least one social link is enabled
