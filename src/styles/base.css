@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+code {
+  white-space: pre-wrap !important;
+}
+
 @layer base {
   :root,
   html[data-theme="light"] {
