@@ -13,8 +13,10 @@ import { SITE, SOCIALS } from "@config";
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
+
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
+const projectPosts = sortedPosts.filter(({ data }) => Array.isArray(data.tags) && data.tags.includes("project"));
 
 const socialCount = SOCIALS.filter(social => social.active).length;
 ---
@@ -79,6 +81,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     </section>
 
     <Hr />
+
+    {
+      projectPosts.length > 0 && (
+        <>
+          <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+              {projectPosts.map(({ data, slug }) => (
+                <Card
+                  href={`/posts/${slug}/`}
+                  frontmatter={data}
+                  secHeading={false}
+                />
+              ))}
+            </ul>
+          </section>
+          {projectPosts.length > 0 && <Hr />}
+        </>
+      )
+    }
 
     {
       featuredPosts.length > 0 && (
@@ -167,11 +189,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
   /* ===== Featured & Recent Posts Sections ===== */
   #featured,
-  #recent-posts {
+  #recent-posts,
+  #projects {
     @apply pb-6 pt-12;
   }
   #featured h2,
-  #recent-posts h2 {
+  #recent-posts h2,
+  #projects h2 {
     @apply text-2xl font-semibold tracking-wide;
   }
   .all-posts-btn-wrapper {
