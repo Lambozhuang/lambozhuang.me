@@ -44,11 +44,11 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           </div>
           {ogImage && (
             <div className="mt-4 aspect-square w-full flex-shrink-0 sm:ml-2 sm:mt-0 sm:aspect-square sm:h-80 sm:w-80">
-              <div className="aspect-square h-full w-full overflow-hidden rounded-lg bg-white shadow-lg">
+              <div className="aspect-square h-full w-full overflow-hidden rounded-lg bg-white shadow-lg flex p-4">
                 <img
                   src={typeof ogImage === "string" ? ogImage : ogImage.src}
                   alt={`Image for ${title}`}
-                  className="h-full w-full object-cover"
+                  className="h-auto w-auto max-h-full max-w-full object-contain m-auto block"
                   loading="lazy"
                 />
               </div>
