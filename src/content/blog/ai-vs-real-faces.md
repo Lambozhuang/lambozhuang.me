@@ -4,9 +4,9 @@ title: AI vs. real faces - A study
 featured: false
 draft: false
 tags:
-  - project
   - ux
   - ai
+ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png
 description:
   Can people differentiate AI faces and real faces? This is a study that I have done in the human perception course in KTH.
 ---

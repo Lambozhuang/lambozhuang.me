@@ -7,6 +7,7 @@ tags:
   - project
   - ux
   - figma
+ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/summate-a-hikers-app/1.jpg
 description:
   How can we help hikers pack their stuff? This is a project that I have done in the interaction design course in KTH.
 ---

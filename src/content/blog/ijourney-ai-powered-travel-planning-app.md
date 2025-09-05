@@ -7,6 +7,7 @@ tags:
   - project
   - ios
   - swift
+ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/ijourney-ai-powered-travel-planning-app/color.png
 description:
   I used SwiftUI to develop an iOS app that integrates ChatGPT for travel information.
   This is the graduation project I did in ZJUT for my bachelor's degree.
