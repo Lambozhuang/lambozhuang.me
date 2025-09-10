@@ -7,7 +7,7 @@ tags:
   - llm
   - ai
   - macos
-ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/running-local-llms/memory2.png
+# ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/running-local-llms/memory2.png
 description:
   I tried to run some recent LLMs on my M1 Pro MacBook Pro.
 ---
