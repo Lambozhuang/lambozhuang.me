@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2025-09-10
-title: Pixel World
+title: Pixel World – MVP-Architected Web Application
 featured: false
 draft: false
 tags:

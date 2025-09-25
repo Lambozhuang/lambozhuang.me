@@ -88,7 +88,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           <section id="projects">
             <h2>Projects</h2>
             <ul>
-              {projectPosts.map(({ data, slug }) => (
+              {projectPosts.slice(0, 3).map(({ data, slug }) => (
                 <Card
                   href={`/posts/${slug}/`}
                   frontmatter={data}
@@ -97,7 +97,17 @@ const socialCount = SOCIALS.filter(social => social.active).length;
               ))}
             </ul>
           </section>
-          {projectPosts.length > 0 && <Hr />}
+          <div class="all-posts-btn-wrapper">
+            <LinkButton href="/tags/project">
+              All Projects
+              <svg xmlns="http://www.w3.org/2000/svg"
+                ><path
+                  d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
+                ></path>
+              </svg>
+            </LinkButton>
+          </div>
+          {projectPosts.length > 3 && <Hr />}
         </>
       )
     }
@@ -191,7 +201,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   #featured,
   #recent-posts,
   #projects {
-    @apply pb-6 pt-12;
+    @apply pb-4 pt-12;
   }
   #featured h2,
   #recent-posts h2,
@@ -199,6 +209,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply text-2xl font-semibold tracking-wide;
   }
   .all-posts-btn-wrapper {
-    @apply my-8 text-center;
+    @apply my-4 text-center;
   }
 </style>
