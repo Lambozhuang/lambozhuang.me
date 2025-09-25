@@ -17,7 +17,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 - BTH Blekinge Institute of Technology | Exchange study in Software Engineering | 2023-2024
 - Zhejiang University of Technology | B.E. in Software Engineering | 2020-2024
 
-## 💻 Expertise
+## 💻 Skills
 
 - Web front-end development ( React.js | Vue.js | Next.js )
 - Web back-end development ( Express.js | Go/Gin | Java/Vertx )
@@ -50,7 +50,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 
 ## Hobby
 
-Photography, Traveling, 80's Music, Disney
+Tech nerd, Photography, Traveling, 80's Music, Disney
 
 ## ✉️ Contact
 
