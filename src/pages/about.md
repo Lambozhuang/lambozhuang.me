@@ -19,19 +19,20 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 
 ## 💻 Expertise
 
-- Web front-end development ( Vue.js | React.js )
-- Web back-end development ( Go/Gin | Java/Vertx )
-- Database ( MySQL )
-- Mobile application development ( iOS/Swift )
-- UI/UX prototyping ( Figma | Sketch )
+- Web front-end development ( React.js | Vue.js | Next.js )
+- Web back-end development ( Express.js | Go/Gin | Java/Vertx )
+- Mobile application development ( iOS/SwiftUI/UIKit )
+- API design ( RESTful | GraphQL )
 - DevOps ( Git | CI/CD | Docker )
+- Database ( MySQL | MongoDB )
 - IT operations ( Linux | PVE )
 - Cloud operations ( Azure | Cloudflare )
+- UI/UX prototyping ( Figma | Sketch )
 - Video editing ( Final Cut Pro )
 - Photo editing ( Adobe Lightroom | Capture One )
 - 3D modeling ( Blender )
 - 3D printing ( Anycubic )
-- AR application development ( ARKit | RealityKit )
+- XR application development ( ARKit | RealityKit | Unity )
 - Game development ( Unity )
 
 ## 🛠️ Experience
