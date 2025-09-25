@@ -9,7 +9,7 @@ tags:
   - figma
 ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/summate-a-hikers-app/1.jpg
 description:
-  How can we help hikers pack their stuff? This is a project that I have done in the interaction design course in KTH.
+  A mobile app prototype where we help hikers pack their stuff smartly. This is a project that I have done in the interaction design course in KTH.
 ---
 
 How can we help hikers pack their stuff? This is a project that I have done in the interaction design course in KTH for the past 2 months with my fellow classmates: Laieh Jwella, Oskar Rebermark and Sabika Amalina. We developed a prototype app which aims to help hikers to connect to each other using Figma.

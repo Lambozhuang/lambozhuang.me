@@ -14,10 +14,10 @@ tags:
   - ux
 ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/pixel-world/world.png
 description:
-  A beautifully made website for people to play and share creativity. This is a project that I have done in the DH2642 interaction programming course in KTH along with my teammates.
+  A beautifully made website using React, Redux and firebase for people to play and share creativity. This is a project that I have done in the DH2642 interaction programming course in KTH along with my teammates.
 ---
 
-Pixel World, a beautifully made website for people to play and share creativity. This is a project that I have done in the DH2642 interaction programming course in KTH along with my fellow teammates: David Segal, Krisztina Biro and Gabi Kiryluk. We developed a fully functional web application mainly using React, Redux Toolkit, Tailwind CSS, P5.js and Firebase, and I am responsible for the architecture design and implementation of the application, which insures we have a clean redux state management and a separation of concerns with the MVP architecture.
+Pixel World, a beautifully made website using React, Redux and firebase for people to play and share creativity. This is a project that I have done in the DH2642 interaction programming course in KTH along with my fellow teammates: David Segal, Krisztina Biro and Gabi Kiryluk. We developed a fully functional web application mainly using React, Redux Toolkit, Tailwind CSS, P5.js and Firebase, and I am responsible for the architecture design and implementation of the application, which insures we have a clean redux state management and a separation of concerns with the MVP architecture.
 
 ## Table of contents
 

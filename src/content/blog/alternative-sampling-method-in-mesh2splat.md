@@ -10,7 +10,7 @@ tags:
   - 3d-rendering
 ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/alternative-sampling-method-in-mesh2splat/1.png
 description:
-  An alternative sampling method in Mesh2Splat to improve the rendering quality in some scenarios. This is a project that I have done with my fellow teammate Oskar Hokkanen Eriksson in the DH2323 computer graphics and interaction course in KTH.
+  An alternative sampling method in Mesh2Splat to improve the rendering quality in some scenarios for synthetic 3DGS models. This is a project that I have done with my fellow teammate Oskar Hokkanen Eriksson in the DH2323 computer graphics and interaction course in KTH.
 ---
 
 <img src="https://lambozhuangme.blob.core.windows.net/blog-images/alternative-sampling-method-in-mesh2splat/1.png" class="mx-auto" alt="1">
