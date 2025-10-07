@@ -15,7 +15,7 @@ const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
 
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured).slice(0, 3);
+const recentPosts = sortedPosts.filter(({ data }) => !data.featured && !(Array.isArray(data.tags) && data.tags.includes("project"))).slice(0, 3);
 const projectPosts = sortedPosts.filter(({ data }) => Array.isArray(data.tags) && data.tags.includes("project"));
 
 const socialCount = SOCIALS.filter(social => social.active).length;
@@ -88,7 +88,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           <section id="projects">
             <h2>Projects</h2>
             <ul>
-              {projectPosts.slice(0, 3).map(({ data, slug }) => (
+              {projectPosts.slice(0, 5).map(({ data, slug }) => (
                 <Card
                   href={`/posts/${slug}/`}
                   frontmatter={data}
