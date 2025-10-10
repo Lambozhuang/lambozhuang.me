@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Hej!"
 ---
 
-I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveling and doing photography. I am currently a master's student in KTH, studying interactive media technology (interaktiv medieteknik).
+I am Jingwen Zhuang AKA Lambo. I like coding, gaming, traveling and doing photography. I am currently a master's student in KTH, studying interactive media technology (interaktiv medieteknik).
 
 📍 Stockholm, Sweden 🇸🇪
 
@@ -22,21 +22,21 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 - Web front-end development ( React.js | Vue.js | Next.js )
 - Web back-end development ( Express.js | Go/Gin | Java/Vertx )
 - Mobile application development ( iOS/SwiftUI/UIKit )
+- Game development ( Unity | Godot | OpenGL | C++ )
+- XR application development ( ARKit | RealityKit | Unity )
 - API design ( RESTful | GraphQL )
-- DevOps ( Git | CI/CD | Docker )
-- Database ( MySQL | MongoDB )
-- IT operations ( Linux | PVE )
+- DevOps ( Git | CI/CD | Docker | Linux )
 - Cloud operations ( Azure | Cloudflare )
 - UI/UX prototyping ( Figma | Sketch )
 - Video editing ( Final Cut Pro )
 - Photo editing ( Adobe Lightroom | Capture One )
 - 3D modeling ( Blender )
 - 3D printing ( Anycubic )
-- XR application development ( ARKit | RealityKit | Unity )
-- Game development ( Unity )
 
 ## 🛠️ Experience
 
+- **Teaching Assistant, DH2642, KTH (2025-2025)**
+  - Assist in teaching and supporting students in developing frontend applications using React and Vue.
 - **President of ZJUT iOS Club (2022-2024)**
   - Founded and led the club, providing a platform for students in ZJUT interested in iOS development.
 - **Member of Jinghong Network Student Association of ZJUT (2020-2021)**
@@ -50,7 +50,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding (mostly web and iOS/macOS), traveli
 
 ## Hobby
 
-Tech nerd, Photography, Traveling, 80's Music, Disney
+Tech nerd, Gaming (Minecraft, Assassin's Creed, Cyberpunk 2077), Photography, Traveling, 80's Music, Disney
 
 ## ✉️ Contact
 
