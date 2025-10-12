@@ -19,9 +19,7 @@ As part of the DH2323 Computer Graphics and Interaction course at KTH, I explore
 
 [The original Mesh2Splat](https://github.com/electronicarts/mesh2splat) relies on OpenGL’s rasterizer for sampling points on a triangle’s surface. While efficient, it can produce jagged edges and distorted points—especially on tilted triangles—because of its grid-based sampling.
 
-Our approach introduced barycentric coordinate sampling to generate uniformly distributed points across each triangle. This alternative method reduced jagged edges and improved the visual quality of the splatted models, even though the CPU-based implementation was slower than the GPU-optimized original.
-
-While still a proof-of-concept, the project highlighted the potential for GPU-based compute shaders and optimization strategies like merging overlapping splats.
+Our approach introduced barycentric coordinate sampling to generate uniformly distributed points across each triangle. This alternative method reduced jagged edges for converted triangles and (somewhat) improved the visual quality of the splatted models. However, one of the problems of our method is that for triangles that are too narrow, the sampling points can still be unevenly distributed, leading to artifacts in the final rendering. The CPU implementation was only a proof-of-concept, since this could be further optimized using GPU compute shaders. 
 
 🔗 [GitHub Link](https://github.com/Lambozhuang/mesh2splat)
 
