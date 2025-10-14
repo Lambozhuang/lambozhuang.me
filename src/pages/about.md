@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Hej!"
 ---
 
-I am Jingwen Zhuang AKA Lambo. I like coding, gaming, traveling and doing photography. I am currently a master's student in KTH, studying interactive media technology (interaktiv medieteknik).
+I am Jingwen Zhuang AKA Lambo. I like coding, gaming, traveling and doing photography. I am currently a master's student at KTH, studying interactive media technology (interaktiv medieteknik).
 
 📍 Stockholm, Sweden 🇸🇪
 
@@ -38,7 +38,7 @@ I am Jingwen Zhuang AKA Lambo. I like coding, gaming, traveling and doing photog
 - **Teaching Assistant, DH2642, KTH (2025-2025)**
   - Assist in teaching and supporting students in developing frontend applications using React and Vue.
 - **President of ZJUT iOS Club (2022-2024)**
-  - Founded and led the club, providing a platform for students in ZJUT interested in iOS development.
+  - Founded and led the club, providing a platform for students at ZJUT interested in iOS development.
 - **Member of Jinghong Network Student Association of ZJUT (2020-2021)**
   - Took part in various web projects with Vue.js and Go/Gin.
 

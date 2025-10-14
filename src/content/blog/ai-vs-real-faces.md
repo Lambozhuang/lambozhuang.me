@@ -10,10 +10,10 @@ tags:
   - study
 # ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png
 description:
-  Can people differentiate AI faces and real faces? This is a study that I have done in the human perception course in KTH.
+  Can people differentiate AI faces and real faces? This is a study that I have done in the human perception course at KTH.
 ---
 
-Can young women differentiate AI faces and real faces when it comes to dating profiles? This is a project that I have done in the human perception course in KTH for the past 2 months with my fellow classmates: Sara Danielsson, Olivia Flodkvist, Olivia Martin and Julia Nordqvist. We looked into how people react and think when they encounter dating profiles with AI generated faces. Our conclusion was people are actually quite good at telling the difference between a real face and an AI generated one.
+Can young women differentiate AI faces and real faces when it comes to dating profiles? This is a project that I have done in the human perception course at KTH for the past 2 months with my fellow classmates: Sara Danielsson, Olivia Flodkvist, Olivia Martin and Julia Nordqvist. We looked into how people react and think when they encounter dating profiles with AI generated faces. Our conclusion was people are actually quite good at telling the difference between a real face and an AI generated one.
 
 <img src="https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png" alt="poster" class="object-contain">
 
@@ -67,7 +67,7 @@ It was quite fun to do those survey and interviews face-to-face, and most of the
 
 ### So what did we found?
 
-After we finished the data collection (we did those mostly by asking our friends and random people in KTH campus), we exported all the data form the google forms and did both quantitative and qualitative data analysis. It is quite interesting that we got our results from many different backgrounds and countries, even though the total number of participants was only 21. We did a confusion matrix calculation for the accuracy on identifying AI images, and a thematic analysis on the interview answers.
+After we finished the data collection (we did those mostly by asking our friends and random people at KTH campus), we exported all the data form the google forms and did both quantitative and qualitative data analysis. It is quite interesting that we got our results from many different backgrounds and countries, even though the total number of participants was only 21. We did a confusion matrix calculation for the accuracy on identifying AI images, and a thematic analysis on the interview answers.
 
 For the thematic analysis, we learned bout this in one of our previous course about interaction design, and we thought this is a good way to process all those interview data. So we just put all the key information into stickers on Miro and categorized them into themes.
 
