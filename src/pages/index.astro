@@ -88,7 +88,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           <section id="projects">
             <h2>Projects</h2>
             <ul>
-              {projectPosts.slice(0, 5).map(({ data, slug }) => (
+              {projectPosts.slice(0, 7).map(({ data, slug }) => (
                 <Card
                   href={`/posts/${slug}/`}
                   frontmatter={data}

@@ -6,6 +6,8 @@ draft: false
 tags:
   - ux
   - ai
+  - project
+  - study
 # ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png
 description:
   Can people differentiate AI faces and real faces? This is a study that I have done in the human perception course in KTH.
