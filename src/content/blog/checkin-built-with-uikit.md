@@ -8,7 +8,7 @@ tags:
   - project
   - swift
   - uikit
-# ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/ai-vs-real-faces/poster.png
+ogImage: https://lambozhuangme.blob.core.windows.net/blog-images/checkin-built-with-uikit/main-and-list.png
 description:
   CheckIN is an iOS app built with Swift and UIKit to streamline attendance tracking using QR codes. Originally a WeChat Mini Program, it was redeveloped to learn iOS development.
 ---
@@ -16,6 +16,9 @@ description:
 This is a little project I built back when I was learning iOS development. It was quite useful and gave me some good practice with Swift and UIKit while solving a real problem I had.
 
 [GitHub Link](https://github.com/Lambozhuang/CheckIN-iOS)
+
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/checkin-built-with-uikit/main-and-list.png" />
+
 
 ## Table of contents
 
@@ -56,9 +59,16 @@ For anyone curious about the implementation, here's what I used:
 
 The QR code generation was actually easier than I thought. iOS has built-in support for generating QR codes, so I just had to figure out how to encode the user data and display it as an image. The scanning part was trickier because I had to work with AVFoundation and set up the camera properly.
 
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/checkin-built-with-uikit/storyboard.png" />
+
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/checkin-built-with-uikit/scan.png" />
+
+
 ## Looking Back
 
 Did the iOS version completely replace the WeChat Mini Program? Honestly, no. Most people still used the WeChat version because it was just more convenient - no separate app to download. But that was never really the point for me. The point was to learn iOS development by building something real, something I could actually use and show to people.
 
 I learned a ton from this project. How iOS apps are structured, how to work with the camera, how to handle user permissions properly, how localization works, and just generally how different native mobile development is from web development.
+
+<img src="https://lambozhuangme.blob.core.windows.net/blog-images/checkin-built-with-uikit/logo.png" class="w-full sm:w-1/2" />
 
