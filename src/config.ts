@@ -8,8 +8,8 @@ export const SITE: Site = {
   title: "LamboZhuang's Blog",
   ogImage: "og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 7,
-  postPerPage: 7,
+  postPerIndex: 10,
+  postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: false,
   showTag: true,
